@@ -1,16 +1,13 @@
-### Hi there 👋
+### Opa, bem vindo ao meu perfil.👋
 
-<!--
-**jeffe499/jeffe499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jefferson Dias Kreiner
+ 
+• Estou etudanto no .[Alura].(https://www.alura.com.br)
+• Estou desenvolvento a linguagem no JavaScript
+• Utilizo ee espaço para minha organização e compartilhamento doa meus projetos
 
-Here are some ideas to get you started:
+### Quer entra em contato comigo? 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+jefferson.kreiner@escola.pr.gov.br
+
+![](https://media.tenor.com/s4UI9q7QDE8AAAAM/running-away-chicken.gif)
