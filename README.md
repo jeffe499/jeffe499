@@ -1,14 +1,17 @@
-### Opa, bem vindo ao meu perfil.👋
+Olá, seja bem-vindo ao meu perfil! 👋
+Meu nome é Jefferson Dias Kreiner e atualmente estou focado no meu aprendizado e desenvolvimento em programação.
 
-Meu nome é Jefferson Dias Kreiner
- 
-- Estou estudanto no .[Alura].(https://www.alura.com.br)
-- Estou desenvolvento a linguagem no JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos
+🎓 Estudo na Alura, uma plataforma incrível de cursos online.
 
-### Quer entra em contato comigo? 📫
+💻 Estou desenvolvendo projetos em JavaScript e me aprofundando cada vez mais nessa linguagem.
 
-jefferson.kreiner@escola.pr.gov.br
+📂 Este espaço serve para organizar meus projetos e compartilhar o que estou criando.
+
+Quer entrar em contato? 📫
+Além de JavaScript, também estou aprendendo Lua para expandir meus horizontes no mundo da programação.
+
+Email: jefferson.kreiner@escola.pr.gov.br
+
 
 ![](https://media.tenor.com/s4UI9q7QDE8AAAAM/running-away-chicken.gif)
 ![](https://media.tenor.com/fudT2_4AY7AAAAAj/huh-meme-huh.gif)
